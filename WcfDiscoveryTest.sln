@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDT.Host", "WDT.Host\WDT.Host.csproj", "{8B41ED44-08EF-4693-AA84-120CA26FB704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDT.Client", "WDT.Client\WDT.Client.csproj", "{382A6FBE-9AF3-4C4E-9300-C2B279866C0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDT.Interfaces", "WDT.Interfaces\WDT.Interfaces.csproj", "{0BF55528-768D-47D2-A53C-E9322AEACDA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B41ED44-08EF-4693-AA84-120CA26FB704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B41ED44-08EF-4693-AA84-120CA26FB704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B41ED44-08EF-4693-AA84-120CA26FB704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B41ED44-08EF-4693-AA84-120CA26FB704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382A6FBE-9AF3-4C4E-9300-C2B279866C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382A6FBE-9AF3-4C4E-9300-C2B279866C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382A6FBE-9AF3-4C4E-9300-C2B279866C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382A6FBE-9AF3-4C4E-9300-C2B279866C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF55528-768D-47D2-A53C-E9322AEACDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF55528-768D-47D2-A53C-E9322AEACDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF55528-768D-47D2-A53C-E9322AEACDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF55528-768D-47D2-A53C-E9322AEACDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
